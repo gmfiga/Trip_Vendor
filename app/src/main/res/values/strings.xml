@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trip Vendor</string>
+    <string name="specials">Specials</string>
+    <string name="country">Brazil</string>
+    <string name="inicial_banner_content">Packages initial banner</string>
+</resources>
